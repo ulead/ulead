@@ -1,4 +1,4 @@
-Hello everybody my name is Mohammed Alessa. I'm a computer science trainer in a technical college at Taif, Saudi Arabia.
+Hello everybody my name is Mohammed Alessa. I'm a computer science trainer in technical college at Taif, Saudi Arabia.
 I'm a lone wolf who loves to work with computers and machines only.
 This repository is dedicated to programming that serves the Arabic language.
 I'm willing to share and contribute in same projects.
