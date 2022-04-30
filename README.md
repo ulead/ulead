@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **PHP ,JS, HTML,CSS**
 
-- 📫 How to reach me **mmaaaa60@gmail.com**
+- 📫 How to reach me **dhadgroup@gmail.com**
 
 - ⚡ Fun fact **I don't like people**
 
